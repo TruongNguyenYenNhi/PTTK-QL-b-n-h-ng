@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T08:05:30.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="46CTY7Jp2iwMnU-xgEp6" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T14:44:52.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fngSIhCvBcz7pHO6q6lY" version="13.10.4" type="github">
   <diagram id="iKfaD6cTsdvRQtJ5o4sg" name="Page-1">
     <mxGraphModel dx="1037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -61,12 +61,12 @@
             <mxPoint x="1534.7142857142858" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1720" y="1890.2857142857147" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1690" y="1890" />
-              <mxPoint x="1690" y="2030" />
+              <mxPoint x="1690" y="2040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,13 +79,13 @@
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-34" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-34" value="Cập nhât lương co tăng ca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-34" value="Cập nhât lương có tăng ca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1475" y="1950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-36" target="Xt3RwrYSRn11R7uCo9Fn-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-36" value="in lương&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22h%E1%BB%87%20th%E1%BB%91ng%20ki%E1%BB%83m%20tra%20l%C6%B0%C6%A1ng%20t%C4%83ng%20ca%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BarcSize%3D40%3BfontColor%3D%23000000%3BfillColor%3D%23ffffc0%3BstrokeColor%3D%23ff0000%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221475%22%20y%3D%221790%22%20width%3D%22120%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-36" value="In lương" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1475" y="2020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-38" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
