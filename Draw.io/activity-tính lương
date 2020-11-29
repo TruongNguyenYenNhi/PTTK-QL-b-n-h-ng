@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T14:52:52.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="sxMrHLkRzesm6XG1tdtQ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T14:54:38.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uVqvZ6CU1RffKXFwZ_IM" version="13.10.4" type="github">
   <diagram id="iKfaD6cTsdvRQtJ5o4sg" name="Page-1">
     <mxGraphModel dx="269" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -56,12 +56,12 @@
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-23" value="Hệ thống kiểm tra lương tăng ca" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1475" y="1790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-34" edge="1">
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-32" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1534.7142857142858" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-33" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-27" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1720" y="1890.2857142857147" as="targetPoint" />
             <Array as="points">
@@ -73,8 +73,8 @@
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-27" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1495" y="1870" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-30" value="Có làm?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="1602.5" y="1850" width="60" height="20" as="geometry" />
+        <mxCell id="Xt3RwrYSRn11R7uCo9Fn-30" value="Nhân viên &lt;br&gt;có làm tăng ca hay không?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="1840" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xt3RwrYSRn11R7uCo9Fn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="Xt3RwrYSRn11R7uCo9Fn-34" target="Xt3RwrYSRn11R7uCo9Fn-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
