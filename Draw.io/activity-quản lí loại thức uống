@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T13:53:35.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5AjApZWBR_EZBzbtbdP8" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T13:59:50.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QpCDqPGSZVdZo2EjnFWc" version="13.10.4" type="github">
   <diagram id="bUjgX-lBEamC5GDtLzhF" name="Page-1">
-    <mxGraphModel dx="1037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="1521.25" y="1745" width="27.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FKBU0AS6e-zxyOA1LMml-18" value="Loại cập nhật?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="1720" width="97.5" height="20" as="geometry" />
+          <mxGeometry x="1432.5" y="1730" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FKBU0AS6e-zxyOA1LMml-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="FKBU0AS6e-zxyOA1LMml-17" target="FKBU0AS6e-zxyOA1LMml-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -117,7 +117,7 @@
         <mxCell id="FKBU0AS6e-zxyOA1LMml-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#ff0000;" parent="1" source="FKBU0AS6e-zxyOA1LMml-35" target="FKBU0AS6e-zxyOA1LMml-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FKBU0AS6e-zxyOA1LMml-35" value="Sửa thức loại uống" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+        <mxCell id="FKBU0AS6e-zxyOA1LMml-35" value="Sửa loại thức uống" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="1787.5" y="1840" width="135" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FKBU0AS6e-zxyOA1LMml-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKBU0AS6e-zxyOA1LMml-37" target="FKBU0AS6e-zxyOA1LMml-49" edge="1">
