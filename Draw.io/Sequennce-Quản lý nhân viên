@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:08:04.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ojevDOFk3fxHH_KCQUF3" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:22:14.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="5DfL47IZ1c54hMZNwhf8" version="13.10.4" type="github">
   <diagram id="6eDqaauncmmPwXfXep6y" name="Page-1">
     <mxGraphModel dx="4877" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
         <mxCell id="NIc7zCb0-3Z8ar2SFFoN-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="635" y="869.9999999999998" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NIc7zCb0-3Z8ar2SFFoN-81" value="Chọn chấm công nhân viên" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="NIc7zCb0-3Z8ar2SFFoN-81" value="Chọn chấm công nhân viên()" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="880" as="sourcePoint" />
             <mxPoint x="630" y="882" as="targetPoint" />
