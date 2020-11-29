@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T15:08:55.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IhG_WsRVrMnItqfvLO4J" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T15:37:18.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="urYw9JQksGm6GOCakyYo" version="13.10.4" type="github">
   <diagram id="wGTcTHuJHE5CPNHD4VtJ" name="Page-1">
-    <mxGraphModel dx="318" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="320" y="120" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1rgUpgfxhRBXVYCej87L-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="50" width="600" height="650" as="geometry" />
+          <mxGeometry x="160" y="70" width="600" height="650" as="geometry" />
         </mxCell>
         <mxCell id="1rgUpgfxhRBXVYCej87L-87" value="" style="endArrow=none;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="1rgUpgfxhRBXVYCej87L-82" target="1rgUpgfxhRBXVYCej87L-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -73,9 +73,10 @@
         <mxCell id="aUiKgl4sltHzzZUIfWi_-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aUiKgl4sltHzzZUIfWi_-5" target="1rgUpgfxhRBXVYCej87L-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88AISwnvkQmua2wp9amE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aUiKgl4sltHzzZUIfWi_-5">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="88AISwnvkQmua2wp9amE-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="aUiKgl4sltHzzZUIfWi_-5" edge="1">
+          <mxGeometry x="-0.1712" relative="1" as="geometry">
             <mxPoint x="800" y="310" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aUiKgl4sltHzzZUIfWi_-5" value="Tính lương" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -90,9 +91,10 @@
         <mxCell id="aUiKgl4sltHzzZUIfWi_-45" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aUiKgl4sltHzzZUIfWi_-7" target="1rgUpgfxhRBXVYCej87L-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="88AISwnvkQmua2wp9amE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="aUiKgl4sltHzzZUIfWi_-7">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="88AISwnvkQmua2wp9amE-3" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="aUiKgl4sltHzzZUIfWi_-7" edge="1">
+          <mxGeometry x="-0.3383" y="5" relative="1" as="geometry">
             <mxPoint x="830" y="310" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aUiKgl4sltHzzZUIfWi_-7" value="Thống kê" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
