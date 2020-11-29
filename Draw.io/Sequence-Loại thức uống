@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:33:14.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="le6fFmBKFVEfwJuIl5lQ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:35:43.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zBUBou2Myf3BYTVPEMex" version="13.10.4" type="github">
   <diagram id="j_IeyuBgu2kEW2ZSFOVU" name="Page-1">
     <mxGraphModel dx="4781" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -56,14 +56,14 @@
         <mxCell id="8s2RJQ7IH6PfZtp-LVop-18" value="Màn hình chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="20" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-19" value="Màn hình QLTU&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="20" width="100" height="20" as="geometry" />
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-19" value="Màn hình QLloaiTU&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-21" value="Cập nhật TU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="20" width="80" height="20" as="geometry" />
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-21" value="Cập nhật loại TU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="20" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-23" value="THUCUONG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="20" width="90" height="20" as="geometry" />
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-23" value="LOAITHUCUONG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8s2RJQ7IH6PfZtp-LVop-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-5" y="150" width="10" height="700" as="geometry" />
@@ -110,7 +110,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-31" value="Xem danh sách thức uống&amp;nbsp;&amp;nbsp;" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-31" value="Xem danh sách loại thức uống&amp;nbsp;&amp;nbsp;" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.6776" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="280" as="sourcePoint" />
             <mxPoint x="470" y="282" as="targetPoint" />
@@ -135,7 +135,7 @@
             <mxPoint x="480" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-37" value="Lấy danh sách thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-37" value="Lấy danh sách loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.248" y="12" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="485" y="322" as="sourcePoint" />
             <mxPoint x="1110" y="322" as="targetPoint" />
@@ -149,14 +149,14 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-39" value="Thêm thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-39" value="Thêm loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="8.859999999999673" y="480" as="sourcePoint" />
             <mxPoint x="470" y="480" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-40" value="ThemThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-40" value="ThemLoaiThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.3119" y="11" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="485" y="520" as="sourcePoint" />
             <mxPoint x="790" y="522" as="targetPoint" />
@@ -177,49 +177,49 @@
             <mxPoint x="800" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-44" value="Thêm thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-44" value="Thêm loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.5086" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="805" y="560" as="sourcePoint" />
             <mxPoint x="1110" y="562" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-45" value="Cập nhật thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-45" value="Cập nhật loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="600.0000000000002" as="sourcePoint" />
             <mxPoint x="466.1400000000003" y="600.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-46" value="CapnhatThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-46" value="CapnhatLoaiThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.4103" y="11" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="640.0000000000002" as="sourcePoint" />
             <mxPoint x="795" y="642" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-47" value="Cập nhật thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-47" value="Cập nhật loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.5086" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="807.5" y="679.9999999999998" as="sourcePoint" />
             <mxPoint x="1112.5" y="682" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-48" value="Xóa thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-48" value="Xóa loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="720.0000000000002" as="sourcePoint" />
             <mxPoint x="466.1400000000003" y="720.0000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-49" value="XoaThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-49" value="XoaLoaiThucUong()" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.3119" y="11" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="759.9999999999998" as="sourcePoint" />
             <mxPoint x="795" y="762" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8s2RJQ7IH6PfZtp-LVop-50" value="Xóa thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8s2RJQ7IH6PfZtp-LVop-50" value="Xóa loại thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.5086" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="799.9999999999998" as="sourcePoint" />
             <mxPoint x="1115" y="802" as="targetPoint" />
