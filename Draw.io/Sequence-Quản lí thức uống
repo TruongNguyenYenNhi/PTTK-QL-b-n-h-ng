@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T07:21:40.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6eJ8OeGRePCu8pvOjowO" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T07:22:24.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7JnJbc2vPfrbFK7A6Bgf" version="13.10.4" type="github">
   <diagram id="yKTI8Lgo0_waqn3MjKtq" name="Page-1">
     <mxGraphModel dx="4781" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
         <mxCell id="zARPvx5m7s-_begIf-7o-70" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="635" y="870" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="zARPvx5m7s-_begIf-7o-71" value="Chọn thông tin tra cứu&amp;nbsp;" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="zARPvx5m7s-_begIf-7o-71" value="Chọn thông tin tra cứu ()" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0667" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="879.9999999999998" as="sourcePoint" />
             <mxPoint x="630" y="882" as="targetPoint" />
