@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T16:10:22.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="aWeFFNHXGCh_A-ILLh7q" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T07:21:45.680Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="Li3m2YKTXVpAfJoZq6Wh" version="13.10.4" type="github">
   <diagram id="WGOODOtZhJrcK8V5L5Yx" name="Page-1">
-    <mxGraphModel dx="1037" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="tApXOfE70uYt5cIqumbI-16" value="Form Đăng nhập" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tApXOfE70uYt5cIqumbI-17" value="Controller Đăng nhập" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="tApXOfE70uYt5cIqumbI-17" value="&amp;nbsp;Đăng nhập" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tApXOfE70uYt5cIqumbI-19" value="" style="endArrow=none;dashed=1;html=1;" parent="1" source="bQXzk8dofoXJki-krO3P-16" edge="1">
@@ -125,19 +125,19 @@
         <mxCell id="5Xuv6KJwJCdpzRJIl_ex-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="10" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="v-myPRK8SRkmvIhviB-c-1" value="" style="shape=note2;size=25;childLayout=stackLayout;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;container=1;" vertex="1" parent="1">
+        <mxCell id="v-myPRK8SRkmvIhviB-c-1" value="" style="shape=note2;size=25;childLayout=stackLayout;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;container=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="50" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v-myPRK8SRkmvIhviB-c-2" value="Actor" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v-myPRK8SRkmvIhviB-c-1">
+        <mxCell id="v-myPRK8SRkmvIhviB-c-2" value="Actor" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-myPRK8SRkmvIhviB-c-1" vertex="1">
           <mxGeometry width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="v-myPRK8SRkmvIhviB-c-3" value="Nhân viên&lt;br&gt;Quản lí" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="v-myPRK8SRkmvIhviB-c-1">
+        <mxCell id="v-myPRK8SRkmvIhviB-c-3" value="Nhân viên&lt;br&gt;Quản lí" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v-myPRK8SRkmvIhviB-c-1" vertex="1">
           <mxGeometry y="25" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="v-myPRK8SRkmvIhviB-c-4" value="Actor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v-myPRK8SRkmvIhviB-c-4" value="Actor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="185" y="75" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v-myPRK8SRkmvIhviB-c-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="v-myPRK8SRkmvIhviB-c-3" target="tApXOfE70uYt5cIqumbI-15">
+        <mxCell id="v-myPRK8SRkmvIhviB-c-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="v-myPRK8SRkmvIhviB-c-3" target="tApXOfE70uYt5cIqumbI-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
