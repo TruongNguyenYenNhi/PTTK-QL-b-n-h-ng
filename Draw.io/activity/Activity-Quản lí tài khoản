@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T08:22:12.717Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="9Fw37xBS1tRyhGp-KlR2" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:10:01.737Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="g9EuNLRjQn96G5VS7e4f" version="13.11.0" type="github">
   <diagram id="nO0S35euTReH9grBrvfc" name="Page-1">
     <mxGraphModel dx="1550" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -50,8 +50,8 @@
         <mxCell id="EEpo0JxoFLlSfARKLxCQ-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="EEpo0JxoFLlSfARKLxCQ-15" target="EEpo0JxoFLlSfARKLxCQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EEpo0JxoFLlSfARKLxCQ-15" value="Chọn thêm tài khoản và nhập thông tin tài khoản" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1472.5" y="1650" width="125" height="40" as="geometry" />
+        <mxCell id="EEpo0JxoFLlSfARKLxCQ-15" value="Actor nhập vào form tài khoản" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1475" y="1620" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EEpo0JxoFLlSfARKLxCQ-16" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#ff0000;" edge="1" parent="1" source="EEpo0JxoFLlSfARKLxCQ-18" target="EEpo0JxoFLlSfARKLxCQ-11">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EEpo0JxoFLlSfARKLxCQ-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="1521.25" y="1745" width="27.5" height="30" as="geometry" />
+          <mxGeometry x="1523.75" y="1695" width="27.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EEpo0JxoFLlSfARKLxCQ-19" value="có muốn tạo tài khoản hay không?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1725" width="97.5" height="20" as="geometry" />
