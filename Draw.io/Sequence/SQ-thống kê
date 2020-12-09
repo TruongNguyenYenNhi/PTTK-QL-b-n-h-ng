@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T14:05:01.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="kT5WVgXZsuRFhSFRl1Qo" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T14:05:34.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="lSLJ0WatKFINMCI8Mqdh" version="13.11.0" type="github">
   <diagram id="BxggVlVMYkNpfpNervF9" name="Page-1">
     <mxGraphModel dx="1887" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
             <mxPoint x="510" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rCTjfzU_kXPolepNjqKa-126" value="6.GetInfoMaThucUong()" style="endArrow=classic;html=1;entryX=-0.167;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="rCTjfzU_kXPolepNjqKa-126" value="6.GetInfoMaThucUong()" style="endArrow=classic;html=1;entryX=-0.16;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="rCTjfzU_kXPolepNjqKa-149">
           <mxGeometry x="-0.4599" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="356.6700000000001" y="320" as="sourcePoint" />
             <mxPoint x="665" y="322" as="targetPoint" />
@@ -123,7 +123,7 @@
         <mxCell id="rCTjfzU_kXPolepNjqKa-130" value="Máy in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="-60" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rCTjfzU_kXPolepNjqKa-131" value="10.print()" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="rCTjfzU_kXPolepNjqKa-131" value="10.print()" style="endArrow=classic;html=1;entryX=-0.04;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="rCTjfzU_kXPolepNjqKa-151">
           <mxGeometry x="-0.6776" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="480" as="sourcePoint" />
             <mxPoint x="829" y="482" as="targetPoint" />
