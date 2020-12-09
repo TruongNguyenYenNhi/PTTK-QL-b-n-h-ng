@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T13:39:55.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="tSuNyql5R9vqdM4grWcm" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T13:58:35.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="PtyV_Ytapo7GYsepZrYW" version="13.11.0" type="github">
   <diagram id="Rv7x5juC5_hTBKQ21OJk" name="Page-1">
     <mxGraphModel dx="1887" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -266,8 +266,8 @@
         <mxCell id="q43VnfgvxSAwM4jJZm0c-1" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="20" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q43VnfgvxSAwM4jJZm0c-2" value="Trang chủ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-20" width="70" height="20" as="geometry" />
+        <mxCell id="q43VnfgvxSAwM4jJZm0c-2" value="Trang chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-20" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="q43VnfgvxSAwM4jJZm0c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="q43VnfgvxSAwM4jJZm0c-7">
           <mxGeometry relative="1" as="geometry">
