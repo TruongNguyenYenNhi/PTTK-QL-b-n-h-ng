@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T14:22:30.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="GfKcqCJR-r4E_E0djK3E" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T14:37:01.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="n5Tfkskn_aHF4ko0bgvi" version="13.11.0" type="github">
   <diagram id="Rv7x5juC5_hTBKQ21OJk" name="Page-1">
-    <mxGraphModel dx="1887" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2091" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
             <mxPoint x="845" y="1351.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="buPqK3ZcA5MDpUlHGhF--82" value="Máy in" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="buPqK3ZcA5MDpUlHGhF--82" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="buPqK3ZcA5MDpUlHGhF--85" value="3.payBill()" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="buPqK3ZcA5MDpUlHGhF--95">
@@ -296,6 +296,9 @@
             <mxPoint x="35" y="1330" as="targetPoint" />
             <mxPoint x="35" y="330" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q43VnfgvxSAwM4jJZm0c-14" value="Máy in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-20" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
