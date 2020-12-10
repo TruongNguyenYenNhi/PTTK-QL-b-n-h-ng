@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T14:39:23.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="pQ_Wi8KAH3A4nofu5BCI" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T15:57:02.859Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="eqxyg39FT-PDZfHPoxbX" version="14.0.0" type="github">
   <diagram id="77UZpkzGvt1EPSTF9PpX" name="Page-1">
-    <mxGraphModel dx="1489" dy="5303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="898" dy="5192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="5nvFvuxYsSgeYNtiJVmo-5" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="50" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5nvFvuxYsSgeYNtiJVmo-6" value="Controller Đăng nhập" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5nvFvuxYsSgeYNtiJVmo-6" value="Controller LOGIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="20" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5nvFvuxYsSgeYNtiJVmo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" parent="1" source="5nvFvuxYsSgeYNtiJVmo-7" edge="1">
@@ -145,14 +145,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5nvFvuxYsSgeYNtiJVmo-34" value="11.Đăng nhập thất bại" style="endArrow=classic;html=1;dashed=1;entryX=1.58;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="5nvFvuxYsSgeYNtiJVmo-14">
+        <mxCell id="5nvFvuxYsSgeYNtiJVmo-34" value="11.Đăng nhập thất bại" style="endArrow=classic;html=1;dashed=1;entryX=1.58;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5nvFvuxYsSgeYNtiJVmo-14" edge="1">
           <mxGeometry x="-0.0411" y="-10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="308" y="560" as="sourcePoint" />
             <mxPoint x="170" y="550" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VgHilVtYfSJ7LzKz4OOr-1" value="Actor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VgHilVtYfSJ7LzKz4OOr-1" value="Actor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="145" y="20" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
