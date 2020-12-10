@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T12:26:02.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="mYtUyCmisAtJMHjl6EN-" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:03:35.986Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="HVcN7LKtn0XBACWh7WlN" version="14.0.0" type="github">
   <diagram id="APd_6ZhK_76c1Sqt7ri0" name="Page-1">
-    <mxGraphModel dx="4337" dy="5269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4198" dy="5192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,12 +147,23 @@
         <mxCell id="VYa8-6a8NQ3M0dbngTRU-5" value="6.updateTK()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="305" y="280" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8xQo5d8tuFktQPi3ieac-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;1.login()&lt;/span&gt;" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="8xQo5d8tuFktQPi3ieac-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;1.login()&lt;/span&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry x="-0.2747" y="20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="120" as="sourcePoint" />
-            <mxPoint x="232.5" y="120" as="targetPoint" />
+            <mxPoint x="110" y="120" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NYCmN7F2XQuFAYI8LxOM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="NYCmN7F2XQuFAYI8LxOM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYCmN7F2XQuFAYI8LxOM-1" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NYCmN7F2XQuFAYI8LxOM-3" value="Trang chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-20" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
