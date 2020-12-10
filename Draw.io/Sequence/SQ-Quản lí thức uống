@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T14:35:12.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="PL-j-fn1rU_7HzSEjqKr" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:11:55.215Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.55" etag="GgNjPSd3iYy8HcN1nxN2" version="14.0.0" type="github">
   <diagram id="JbHqEK-o5FRQ-NGwSyEQ" name="Page-1">
-    <mxGraphModel dx="2091" dy="1618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,27 +428,27 @@
         <mxCell id="si1ScX2UhugNZ495u-qH-161" value="Actor&amp;nbsp;&lt;br&gt;Quản lí&amp;nbsp;&lt;br&gt;Nhân viên" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=19;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="-150" y="-30" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="55rgj3_-d1zGbg2zcx-B-5">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="55rgj3_-d1zGbg2zcx-B-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="1321.599853515625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-2" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-2" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="20" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-4" value="Trang chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-4" value="Trang chính" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="-10" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="150" y="110" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="55rgj3_-d1zGbg2zcx-B-2" target="55rgj3_-d1zGbg2zcx-B-5">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="55rgj3_-d1zGbg2zcx-B-2" target="55rgj3_-d1zGbg2zcx-B-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="1321.599853515625" as="targetPoint" />
             <mxPoint x="155" y="80" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="55rgj3_-d1zGbg2zcx-B-7" value="2.Chọn quản lí thức uống" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="55rgj3_-d1zGbg2zcx-B-7" value="2.Chọn quản lí thức uống" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry x="0.4789" y="11" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="160" as="sourcePoint" />
             <mxPoint x="310" y="160" as="targetPoint" />
